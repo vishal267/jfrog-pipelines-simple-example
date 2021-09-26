@@ -20,7 +20,7 @@ resources:
       runID: 1
 
 pipelines:
-  - name: my_first_pipeline
+  - name: basic_pipeline
     steps:
       - name: p1_s1
         type: Bash
